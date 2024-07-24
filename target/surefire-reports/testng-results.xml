@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-24T20:17:14 IST" name="Suite" finished-at="2024-07-24T20:17:19 IST" duration-ms="5910">
+    <groups>
+    </groups>
+    <test started-at="2024-07-24T20:17:14 IST" name="Test" finished-at="2024-07-24T20:17:19 IST" duration-ms="5910">
+      <class name="one.SeleniumTestDemo1">
+        <test-method signature="testNGDemo()[pri:0, instance:one.SeleniumTestDemo1@368247b9]" started-at="2024-07-24T20:17:14 IST" name="testNGDemo" finished-at="2024-07-24T20:17:19 IST" duration-ms="5842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNGDemo -->
+      </class> <!-- one.SeleniumTestDemo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
